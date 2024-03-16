@@ -5,11 +5,15 @@
     
 }
 
-header{margin: 20px 0px 100px 100px;
+header{margin: 0px 0px 100px 100px;
+    background-color: black;
+    
+
 }
 
 .link-header{ font-weight: 700;
-    line-height: 28px;
+    line-height: 30px;
+    
     color: #FFF;
 cursor: pointer; 
 margin-right: 30px;}
